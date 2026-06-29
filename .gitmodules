@@ -1,0 +1,3 @@
+[submodule "go-memps-proto"]
+	path = go-memps-proto
+	url = https://github.com/yoshihio/go-memps-proto
